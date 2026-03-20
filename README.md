@@ -1,7 +1,7 @@
 # Setup
 
 ```bash
-git clone git@github.com:nightdevil00/nixOS.git
+git clone https://github.com/nightdevil00/nixOS
 cd nixOS
 bash nix_format.sh
 sudo bash install.sh
