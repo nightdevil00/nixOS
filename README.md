@@ -1,3 +1,14 @@
+# Setup
+
+```bash
+git clone git@github.com:nightdevil00/nixOS.git
+cd nixOS
+bash nix_format.sh
+sudo bash install.sh
+```
+
+---
+
 Previews of my desktop
 
 ![preview1](previews/screenshot1.png)
